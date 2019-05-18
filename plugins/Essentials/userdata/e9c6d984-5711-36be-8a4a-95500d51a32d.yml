@@ -1,4 +1,21 @@
 lastAccountName: niryxX
 timestamps:
-  login: 1558188884854
+  login: 1558190789018
+  logout: 1558190829749
+  lastteleport: 1558189502760
 ipAddress: 25.49.151.204
+logoutlocation:
+  world: world
+  x: -192.80306071675315
+  y: 94.28260082566287
+  z: 141.4490421692289
+  yaw: -44.99998
+  pitch: -4.949991
+lastlocation:
+  world: world
+  x: -219.5
+  y: 64.0
+  z: 148.5
+  yaw: -1.4999987
+  pitch: 40.649998
+afk: false

@@ -15,8 +15,6 @@ settings:
   enable-player-collisions: true
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
-  load-permissions-yml-before-plugins: true
-  bungee-online-mode: true
   sleep-between-chunk-saves: false
   region-file-cache-size: 256
   save-empty-scoreboard-teams: false
@@ -35,6 +33,8 @@ settings:
   book-size:
     page-max: 2560
     total-multiplier: 0.98
+  load-permissions-yml-before-plugins: true
+  bungee-online-mode: true
 timings:
   enabled: true
   verbose: true
@@ -51,53 +51,21 @@ messages:
     flying-vehicle: Flying is not enabled on this server
 world-settings:
   default:
-    keep-spawn-loaded-range: 8
-    auto-save-interval: -1
-    game-mechanics:
-      shield-blocking-delay: 5
-      disable-player-crits: false
-      disable-sprint-interruption-on-attack: false
-      disable-unloaded-chunk-enderpearl-exploit: true
-      disable-end-credits: false
-      village-sieges-enabled: true
-      disable-chest-cat-detection: false
-      allow-permanent-chunk-loaders: false
-      scan-for-legacy-ender-dragon: true
-    disable-explosion-knockback: false
-    elytra-hit-wall-damage: true
-    hopper:
-      push-based: false
-      cooldown-when-full: true
-      disable-move-event: false
-    parrots-are-unaffected-by-player-movement: false
-    spawner-nerfed-mobs-should-jump: false
-    baby-zombie-movement-speed: 0.5
-    allow-leashing-undead-horse: false
-    generator-settings:
-      canyon: true
-      caves: true
-      dungeon: true
-      fortress: true
-      mineshaft: true
-      monument: true
-      stronghold: true
-      temple: true
-      village: true
-      flat-bedrock: false
-      disable-extreme-hills-emeralds: false
-      disable-extreme-hills-monster-eggs: false
-      disable-mesa-additional-gold: false
-    portal-search-radius: 128
-    frosted-ice:
-      enabled: true
-      delay:
-        min: 20
-        max: 40
     nether-ceiling-void-damage: false
     allow-non-player-entities-on-scoreboards: false
     container-update-tick-rate: 1
-    use-alternate-fallingblock-onGround-detection: false
-    bed-search-radius: 1
+    game-mechanics:
+      disable-end-credits: false
+      shield-blocking-delay: 5
+      disable-unloaded-chunk-enderpearl-exploit: true
+      village-sieges-enabled: true
+      disable-chest-cat-detection: false
+      disable-player-crits: false
+      disable-sprint-interruption-on-attack: false
+      allow-permanent-chunk-loaders: false
+      scan-for-legacy-ender-dragon: true
+    prevent-tnt-from-moving-in-water: false
+    non-player-arrow-despawn-rate: -1
     keep-spawn-loaded: true
     anti-xray:
       enabled: false
@@ -125,15 +93,52 @@ world-settings:
     experience-merge-max-value: -1
     armor-stands-do-collision-entity-lookups: true
     skip-entity-ticking-in-chunks-scheduled-for-unload: true
+    disable-explosion-knockback: false
+    elytra-hit-wall-damage: true
+    hopper:
+      push-based: false
+      cooldown-when-full: true
+      disable-move-event: false
+    grass-spread-tick-rate: 1
     disable-thunder: false
     skeleton-horse-thunder-spawn-chance: 0.01
     disable-ice-and-snow: false
     fire-physics-event-for-redstone: false
-    grass-spread-tick-rate: 1
-    prevent-tnt-from-moving-in-water: false
-    non-player-arrow-despawn-rate: -1
+    spawner-nerfed-mobs-should-jump: false
+    baby-zombie-movement-speed: 0.5
+    mob-spawner-tick-rate: 1
+    keep-spawn-loaded-range: 8
+    auto-save-interval: -1
+    frosted-ice:
+      enabled: true
+      delay:
+        min: 20
+        max: 40
+    bed-search-radius: 1
+    all-chunks-are-slime-chunks: false
     squid-spawn-height:
       maximum: 0.0
+    enable-treasure-maps: true
+    treasure-maps-return-already-discovered: false
+    parrots-are-unaffected-by-player-movement: false
+    use-alternate-fallingblock-onGround-detection: false
+    armor-stands-tick: true
+    allow-leashing-undead-horse: false
+    generator-settings:
+      canyon: true
+      caves: true
+      dungeon: true
+      fortress: true
+      mineshaft: true
+      monument: true
+      stronghold: true
+      temple: true
+      village: true
+      flat-bedrock: false
+      disable-extreme-hills-emeralds: false
+      disable-extreme-hills-monster-eggs: false
+      disable-mesa-additional-gold: false
+    portal-search-radius: 128
     queue-light-updates: false
     optimize-explosions: false
     use-chunk-inhabited-timer: true
@@ -174,9 +179,4 @@ world-settings:
     disable-creeper-lingering-effect: false
     duplicate-uuid-resolver: saferegen
     duplicate-uuid-saferegen-delete-range: 32
-    armor-stands-tick: true
     disable-teleportation-suffocation-check: false
-    mob-spawner-tick-rate: 1
-    all-chunks-are-slime-chunks: false
-    enable-treasure-maps: true
-    treasure-maps-return-already-discovered: false
