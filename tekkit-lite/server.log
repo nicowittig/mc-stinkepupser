@@ -1,0 +1,46 @@
+2019-05-19 15:56:33 [INFO] Starting minecraft server version 1.4.7
+2019-05-19 15:56:41 [INFO] Loading properties
+2019-05-19 15:56:41 [INFO] Default game type: SURVIVAL
+2019-05-19 15:56:41 [INFO] Generating keypair
+2019-05-19 15:56:41 [INFO] Starting Minecraft server on *:25565
+2019-05-19 15:56:45 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2019-05-19 15:56:45 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2019-05-19 15:56:45 [INFO] Preparing level "world"
+2019-05-19 15:56:46 [INFO] Preparing start region for level 0
+2019-05-19 15:56:47 [INFO] Preparing spawn area: 16%
+2019-05-19 15:56:48 [INFO] Preparing spawn area: 33%
+2019-05-19 15:56:49 [INFO] Preparing spawn area: 52%
+2019-05-19 15:56:50 [INFO] Preparing spawn area: 73%
+2019-05-19 15:56:51 [INFO] Preparing spawn area: 96%
+2019-05-19 15:56:51 [INFO] Done (5,740s)! For help, type "help" or "?"
+2019-05-19 15:57:10 [INFO] Schorn [/25.64.201.106:61361] lost connection
+2019-05-19 15:57:49 [INFO] Stopping the server
+2019-05-19 15:57:49 [INFO] Stopping server
+2019-05-19 15:57:49 [INFO] Saving players
+2019-05-19 15:57:49 [INFO] Saving worlds
+2019-05-19 15:57:49 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-19 15:57:49 [INFO] Saving chunks for level 'world'/Nether
+2019-05-19 15:57:49 [INFO] Stopping server
+2019-05-19 15:57:49 [INFO] Saving players
+2019-05-19 15:57:54 [INFO] Starting minecraft server version 1.4.7
+2019-05-19 15:58:02 [INFO] Loading properties
+2019-05-19 15:58:02 [INFO] Default game type: SURVIVAL
+2019-05-19 15:58:02 [INFO] Generating keypair
+2019-05-19 15:58:02 [INFO] Starting Minecraft server on *:25565
+2019-05-19 15:58:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-19 15:58:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-19 15:58:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-19 15:58:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-19 15:58:06 [INFO] Preparing level "world"
+2019-05-19 15:58:06 [INFO] Preparing start region for level 0
+2019-05-19 15:58:07 [INFO] Done (0,761s)! For help, type "help" or "?"
+2019-05-19 15:58:47 [INFO] User Schorn connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, AppliedEnergistics, RedPowerBase, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, PowerConverters, Tubestuff, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, MFReloaded|CompatIC2, mmmPowersuits, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, MFReloaded|CompatTwilightForest, BuildCraft|Energy, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-19 15:58:47 [INFO] Schorn[/25.64.201.106:61433] logged in with entity id 108 at (138.5, 67.62000000476837, 85.5)
+2019-05-19 15:59:05 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, AppliedEnergistics, RedPowerBase, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, PowerConverters, Tubestuff, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, MFReloaded|CompatIC2, mmmPowersuits, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, MFReloaded|CompatTwilightForest, BuildCraft|Energy, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-19 15:59:05 [INFO] niryxX[/25.49.151.204:55823] logged in with entity id 1410 at (139.5, 67.62000000476837, 86.5)
+2019-05-19 15:59:20 [INFO] Opped nir	
+2019-05-19 15:59:23 [INFO] Unknown command. Try /help for a list of commands.
+2019-05-19 15:59:28 [INFO] Opped niryxX
+2019-05-19 15:59:37 [INFO] [niryxX: Set own game mode to Creative Mode]
+2019-05-19 16:00:01 [INFO] [niryxX: Set Schorn's game mode to Creative Mode]
+2019-05-19 16:01:12 [INFO] [niryxX: Opped Schorn]
