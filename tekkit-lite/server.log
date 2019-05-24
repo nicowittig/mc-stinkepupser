@@ -515,3 +515,90 @@
 2019-05-24 16:36:21 [INFO] Saving chunks for level 'world'/Overworld
 2019-05-24 16:36:21 [INFO] Saving chunks for level 'world'/Nether
 2019-05-24 16:36:21 [INFO] Stopping server
+2019-05-24 16:37:12 [INFO] Starting minecraft server version 1.4.7
+2019-05-24 16:37:19 [INFO] Loading properties
+2019-05-24 16:37:19 [INFO] Default game type: SURVIVAL
+2019-05-24 16:37:19 [INFO] Generating keypair
+2019-05-24 16:37:20 [INFO] Starting Minecraft server on *:25565
+2019-05-24 16:37:20 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-24 16:37:20 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-24 16:37:20 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-24 16:37:20 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-24 16:37:23 [INFO] Preparing level "world"
+2019-05-24 16:37:23 [INFO] Preparing start region for level 0
+2019-05-24 16:37:24 [INFO] Done (0,696s)! For help, type "help" or "?"
+2019-05-24 18:33:35 [INFO] Stopping the server
+2019-05-24 18:33:35 [INFO] Stopping server
+2019-05-24 18:33:35 [INFO] Saving players
+2019-05-24 18:33:35 [INFO] Saving worlds
+2019-05-24 18:33:35 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-24 18:33:35 [INFO] Saving chunks for level 'world'/Nether
+2019-05-24 18:33:35 [INFO] Stopping server
+2019-05-24 18:33:43 [INFO] Starting minecraft server version 1.4.7
+2019-05-24 18:33:51 [INFO] Loading properties
+2019-05-24 18:33:51 [INFO] Default game type: SURVIVAL
+2019-05-24 18:33:51 [INFO] Generating keypair
+2019-05-24 18:33:51 [INFO] Starting Minecraft server on *:25565
+2019-05-24 18:33:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-24 18:33:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-24 18:33:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-24 18:33:51 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-24 18:33:55 [INFO] Preparing level "world"
+2019-05-24 18:33:56 [INFO] Preparing start region for level 0
+2019-05-24 18:33:57 [INFO] Done (1,278s)! For help, type "help" or "?"
+2019-05-24 21:15:48 [INFO] --- Showing help page 1 of 8 (/help <page>) ---
+2019-05-24 21:15:48 [INFO] /ban <name> [reason ...]
+2019-05-24 21:15:48 [INFO] /ban-ip <address|name> [reason ...]
+2019-05-24 21:15:48 [INFO] /banlist [ips|players]
+2019-05-24 21:15:48 [INFO] /buildcraft help
+2019-05-24 21:15:48 [INFO] /ccdebug help
+2019-05-24 21:15:48 [INFO] /clear <player> [item] [data]
+2019-05-24 21:15:48 [INFO] /cofh
+2019-05-24 21:15:54 [INFO] --- Showing help page 1 of 8 (/help <page>) ---
+2019-05-24 21:15:54 [INFO] /ban <name> [reason ...]
+2019-05-24 21:15:54 [INFO] /ban-ip <address|name> [reason ...]
+2019-05-24 21:15:54 [INFO] /banlist [ips|players]
+2019-05-24 21:15:54 [INFO] /buildcraft help
+2019-05-24 21:15:54 [INFO] /ccdebug help
+2019-05-24 21:15:54 [INFO] /clear <player> [item] [data]
+2019-05-24 21:15:54 [INFO] /cofh
+2019-05-24 21:15:58 [INFO] You must specify which player you wish to perform this action on.
+2019-05-24 21:17:10 [INFO] /25.49.151.204:56647 lost connection
+2019-05-24 21:17:42 [INFO] Stopping the server
+2019-05-24 21:17:42 [INFO] Stopping server
+2019-05-24 21:17:42 [INFO] Saving players
+2019-05-24 21:17:42 [INFO] Saving worlds
+2019-05-24 21:17:42 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-24 21:17:42 [INFO] Saving chunks for level 'world'/Nether
+2019-05-24 21:21:13 [INFO] Starting minecraft server version 1.4.7
+2019-05-24 21:21:22 [INFO] Loading properties
+2019-05-24 21:21:22 [INFO] Default game type: SURVIVAL
+2019-05-24 21:21:22 [INFO] Generating keypair
+2019-05-24 21:21:22 [INFO] Starting Minecraft server on *:25565
+2019-05-24 21:21:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-24 21:21:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-24 21:21:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-24 21:21:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-24 21:21:27 [INFO] Preparing level "world"
+2019-05-24 21:21:28 [INFO] Preparing start region for level 0
+2019-05-24 21:21:28 [INFO] Done (1,186s)! For help, type "help" or "?"
+2019-05-24 21:21:59 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, CCTurtle, LogisticsPipes|Main, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, PowerConverters, TreeCapitator, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-24 21:21:59 [INFO] niryxX[/25.49.151.204:57958] logged in with entity id 62 at (308.86656720237016, 67.0, 536.748160470969)
+2019-05-24 21:22:37 [INFO] niryxX lost connection: disconnect.genericReason
+2019-05-24 21:25:34 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, CCTurtle, LogisticsPipes|Main, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, PowerConverters, TreeCapitator, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-24 21:25:34 [INFO] niryxX[/25.49.151.204:58421] logged in with entity id 763 at (322.7405121287394, 72.0, 537.4770709684524)
+2019-05-24 21:33:08 [INFO] niryxX lost connection: disconnect.quitting
+2019-05-24 21:41:40 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, CCTurtle, LogisticsPipes|Main, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, PowerConverters, TreeCapitator, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-24 21:41:40 [INFO] niryxX[/192.168.178.61:50252] logged in with entity id 8013 at (314.65989047107223, 63.0, 536.7473307340099)
+2019-05-24 23:04:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-05-24 23:04:23 [INFO] niryxX lost connection: disconnect.quitting
+2019-05-24 23:04:30 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, CCTurtle, LogisticsPipes|Main, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, CompactSolars, APUnofficial, MFReloaded|CompatExtraBiomes, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, PowerConverters, TreeCapitator, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, RedPowerControl, ImmibisCore, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, RedPowerLighting, MFReloaded|CompatRP2, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-24 23:04:30 [INFO] niryxX[/192.168.178.61:50541] logged in with entity id 86870 at (313.4416540873098, 68.0, 514.5630053580973)
+2019-05-24 23:19:00 [INFO] niryxX lost connection: disconnect.quitting
+2019-05-24 23:19:39 [INFO] Stopping the server
+2019-05-24 23:19:39 [INFO] Stopping server
+2019-05-24 23:19:39 [INFO] Saving players
+2019-05-24 23:19:39 [INFO] Saving worlds
+2019-05-24 23:19:39 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-24 23:19:39 [INFO] Saving chunks for level 'world'/Nether
+2019-05-24 23:19:39 [INFO] Stopping server
