@@ -602,3 +602,48 @@
 2019-05-24 23:19:39 [INFO] Saving chunks for level 'world'/Overworld
 2019-05-24 23:19:39 [INFO] Saving chunks for level 'world'/Nether
 2019-05-24 23:19:39 [INFO] Stopping server
+2019-05-26 19:25:36 [INFO] Starting minecraft server version 1.4.7
+2019-05-26 19:25:44 [INFO] Loading properties
+2019-05-26 19:25:44 [INFO] Default game type: SURVIVAL
+2019-05-26 19:25:44 [INFO] Generating keypair
+2019-05-26 19:25:45 [INFO] Starting Minecraft server on *:25565
+2019-05-26 19:25:45 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-26 19:25:45 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-26 19:25:45 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-26 19:25:45 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-26 19:25:50 [INFO] Preparing level "world"
+2019-05-26 19:25:51 [INFO] Preparing start region for level 0
+2019-05-26 19:25:51 [INFO] Done (1,316s)! For help, type "help" or "?"
+2019-05-26 19:36:43 [INFO] User Schorn connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, APUnofficial, MFReloaded|CompatExtraBiomes, CompactSolars, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, Tubestuff, PowerConverters, EnderStorage, IC2NuclearControl, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, MFReloaded|CompatRP2, RedPowerLighting, RedPowerMachine, AdvancedPowerManagement, BuildCraft|Transport, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-26 19:36:43 [INFO] Schorn[/25.64.201.106:50566] logged in with entity id 61 at (405.9719852624391, 63.0, 543.7024262939021)
+2019-05-26 20:21:02 [INFO] Schorn lost connection: disconnect.genericReason
+2019-05-26 20:21:50 [INFO] User Schorn connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, APUnofficial, MFReloaded|CompatExtraBiomes, CompactSolars, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, Tubestuff, PowerConverters, EnderStorage, IC2NuclearControl, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, MFReloaded|CompatRP2, RedPowerLighting, RedPowerMachine, AdvancedPowerManagement, BuildCraft|Transport, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-26 20:21:50 [INFO] Schorn[/25.64.201.106:50724] logged in with entity id 68042 at (402.06319584772996, 63.0, 548.6155694968811)
+2019-05-26 20:42:19 [INFO] Schorn was shot by Skeleton
+2019-05-26 21:17:37 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, APUnofficial, MFReloaded|CompatExtraBiomes, CompactSolars, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, Tubestuff, PowerConverters, EnderStorage, IC2NuclearControl, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, MFReloaded|CompatRP2, RedPowerLighting, RedPowerMachine, AdvancedPowerManagement, BuildCraft|Transport, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-26 21:17:37 [INFO] niryxX[/192.168.178.61:51775] logged in with entity id 170446 at (309.7769890776192, 67.0, 536.8835120147398)
+2019-05-26 21:17:55 [INFO] <niryxX> Hallöchen
+2019-05-26 21:17:56 [INFO] <Schorn> nabend
+2019-05-26 21:25:23 [INFO] <niryxX> Schlaf schön
+2019-05-26 21:25:39 [INFO] <Schorn> nacht
+2019-05-26 21:26:38 [INFO] Giving Schorn 64 of Solar Panel
+2019-05-26 22:15:27 [INFO] Giving niryxX 1 of Redstone Engine
+2019-05-26 22:33:25 [INFO] Giving Schorn 64 of Solar Panel
+2019-05-26 22:33:28 [INFO] Giving Schorn 64 of Solar Panel
+2019-05-26 22:39:12 [INFO] <niryxX> kurz weg
+2019-05-26 23:00:25 [INFO] Giving Schorn 64 of Solar Panel
+2019-05-26 23:08:18 [INFO] Giving Schorn 0 of Solar Panel
+2019-05-26 23:08:26 [INFO] Giving Schorn 64 of Solar Panel
+2019-05-26 23:09:05 [INFO] Giving Schorn 64 of Glass Fibre Cable
+2019-05-26 23:16:08 [INFO] Schorn lost connection: disconnect.genericReason
+2019-05-26 23:16:44 [INFO] User Schorn connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, APUnofficial, MFReloaded|CompatExtraBiomes, CompactSolars, BuildCraft|Factory, WR-CBE|Addons, TreeCapitator, Tubestuff, PowerConverters, EnderStorage, IC2NuclearControl, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, DimensionalDoors, MFReloaded|CompatRP2, RedPowerLighting, RedPowerMachine, AdvancedPowerManagement, BuildCraft|Transport, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, MFReloaded|CompatVanilla, BuildCraft|Builders, OCS]
+2019-05-26 23:16:44 [INFO] Schorn[/25.64.201.106:51282] logged in with entity id 393286 at (314.3087469923562, 63.0, 534.6070453596437)
+2019-05-26 23:26:10 [INFO] Schorn lost connection: disconnect.quitting
+2019-05-26 23:26:25 [INFO] niryxX lost connection: disconnect.quitting
+2019-05-26 23:27:06 [INFO] Stopping the server
+2019-05-26 23:27:06 [INFO] Stopping server
+2019-05-26 23:27:06 [INFO] Saving players
+2019-05-26 23:27:06 [INFO] Saving worlds
+2019-05-26 23:27:06 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-26 23:27:06 [INFO] Saving chunks for level 'world'/Nether
+2019-05-26 23:27:06 [INFO] Stopping server
