@@ -647,3 +647,31 @@
 2019-05-26 23:27:06 [INFO] Saving chunks for level 'world'/Overworld
 2019-05-26 23:27:06 [INFO] Saving chunks for level 'world'/Nether
 2019-05-26 23:27:06 [INFO] Stopping server
+2019-05-27 22:49:38 [INFO] Starting minecraft server version 1.4.7
+2019-05-27 22:49:46 [INFO] Loading properties
+2019-05-27 22:49:46 [INFO] Default game type: SURVIVAL
+2019-05-27 22:49:46 [INFO] Generating keypair
+2019-05-27 22:49:47 [INFO] Starting Minecraft server on *:25565
+2019-05-27 22:49:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2019-05-27 22:49:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2019-05-27 22:49:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2019-05-27 22:49:47 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2019-05-27 22:49:53 [INFO] Preparing level "world"
+2019-05-27 22:49:53 [INFO] Preparing start region for level 0
+2019-05-27 22:49:54 [INFO] Done (1,313s)! For help, type "help" or "?"
+2019-05-27 22:54:16 [INFO] User Schorn connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, MFReloaded|CompatExtraBiomes, CompactSolars, APUnofficial, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, TreeCapitator, PowerConverters, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, RedPowerLighting, MFReloaded|CompatRP2, DimensionalDoors, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, BuildCraft|Builders, MFReloaded|CompatVanilla, OCS]
+2019-05-27 22:54:16 [INFO] Schorn[/25.64.201.106:53224] logged in with entity id 61 at (403.6543346137416, 64.0, 538.4760072285352)
+2019-05-27 22:54:40 [INFO] You whisper to Schorn: Hello my friend, wanna play a game? :b
+2019-05-27 22:54:52 [INFO] <Schorn> yes of course
+2019-05-27 22:55:06 [INFO] You whisper to Schorn: Ok I'm comming
+2019-05-27 22:58:16 [INFO] <Schorn> bin kurz kacken
+2019-05-27 23:00:51 [INFO] User niryxX connecting with mods [AdvancedMachines, WR-CBE|RedPower, BuildCraft|Silicon, factorization.dimensionalSlice, BuildCraft|Core, LogisticsPipes|Main, CCTurtle, EE3, Mystcraft, RedPowerBase, AppliedEnergistics, factorization.misc, WR-CBE|Core, RedPowerWiring, MFReloaded|CompatForestry, ThermalExpansion, MFReloaded|CompatExtraBiomes, CompactSolars, APUnofficial, BuildCraft|Factory, WR-CBE|Addons, Tubestuff, TreeCapitator, PowerConverters, IC2NuclearControl, EnderStorage, weaponmod, MFReloaded|CompatPams, MFReloaded|CompatThaumcraft, StevesCarts, DimensionalAnchors, ComputerCraft, IronChest, OmniTools, RedPowerCore, mmmPowersuits, MFReloaded|CompatIC2, MFReloaded|CompatSufficientBiomes, AdvancedRepulsionSystems, ImmibisCore, RedPowerControl, RedPowerWorld, ChickenChunks, BuildCraft|Energy, MFReloaded|CompatTwilightForest, IC2, RedPowerLogic, MFReloaded|CompatSoulShards, NetherOres, RedPowerLighting, MFReloaded|CompatRP2, DimensionalDoors, RedPowerMachine, BuildCraft|Transport, AdvancedPowerManagement, MFReloaded, ThermalExpansion|Energy, factorization, MFReloaded|CompatXyCraft, ThermalExpansion|Factory, mod_bspkrsCore, RedPowerCompat, ThermalExpansion|Transport, BuildCraft|Builders, MFReloaded|CompatVanilla, OCS]
+2019-05-27 23:00:52 [INFO] niryxX[/192.168.1.7:52613] logged in with entity id 11240 at (404.56700715744466, 64.0, 542.4171986239019)
+2019-05-27 23:04:22 [INFO] niryxX lost connection: disconnect.quitting
+2019-05-27 23:13:44 [INFO] Schorn lost connection: disconnect.quitting
+2019-05-27 23:55:53 [INFO] Stopping the server
+2019-05-27 23:55:53 [INFO] Stopping server
+2019-05-27 23:55:53 [INFO] Saving players
+2019-05-27 23:55:53 [INFO] Saving worlds
+2019-05-27 23:55:53 [INFO] Saving chunks for level 'world'/Overworld
+2019-05-27 23:55:53 [INFO] Saving chunks for level 'world'/Nether
